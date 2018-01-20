@@ -1,0 +1,5 @@
+#
+# Pilot Image Viewer pdb files.
+#
+60	string	vIMGView	Pilot Image Viewer,
+>0	string	x		"%s"

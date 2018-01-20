@@ -1,0 +1,11 @@
+P3
+##
+## You can use this PGM file with ppmquant to map images to the
+## image viewer palette.
+##
+4 1
+255
+  0   0   0
+ 85  85  85
+170 170 170
+255 255 255
